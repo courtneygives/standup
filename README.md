@@ -6,7 +6,7 @@ Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer 
 
 
 ## Procedure ("our way")
-1. Start the meeting no later than one or two minutes past the appointed time, because a) we don't know who's showing up, necessarily, and b) we want this to be short so you can go on with your life.
+1. Start the meeting at the appointed time, because a) we don't know who's showing up, necessarily, and b) we want this to be short so you can go on with your life.
 2. Each person has 30-90 seconds to answer three questions: 
   - What have you worked on since the last meeting / yesterday?
   - What will you work on after this meeting?
