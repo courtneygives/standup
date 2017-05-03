@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# This is going to run itself. 
+Aint that great?
 
-You can use the [editor on GitHub](https://github.com/courtneygives/standup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Standup
+Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer than 10 people. For the purpose of keeping the meeting very short, participants actually do *stand up* together. Each person has some time to talk about plans and needs for the day. We don't necessarily know each other or work together, so we're doing things our way.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Procedure ("our way")
+1. Start the meeting no later than one or two minutes past the appointed time, because a) we don't know who's showing up, necessarily, and b) we want this to be short so you can go on with your life.
+2. Each person has 30-90 seconds to answer three questions: 
+  - What have you worked on since the last meeting / yesterday?
+  - What will you work on after this meeting?
+  - What is getting inhibiting your progress? 
+  
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Vote plz.
+Vote on the time that is most likely to work for you each day (Weekends probably not included) to hop on a voice/video meeting. The 
 
-```markdown
-Syntax highlighted code block
+You would just be encouraged to attend ==one per day==, not both morning and evening.
 
-# Header 1
-## Header 2
-### Header 3
+### Vote: Morning Standup times
+--> https://doodle.com/poll/6u9f673z2a2tdigp
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/courtneygives/standup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Vote: Afternoon / Evening Standup times
+--> https://doodle.com/poll/zwan3g3cgrr3bp2b
