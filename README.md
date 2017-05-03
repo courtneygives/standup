@@ -12,7 +12,6 @@ Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer 
   - What will you work on after this meeting?
   - What is getting inhibiting your progress? 
   
----
 
 # Vote plz.
 Vote on the time that is most likely to work for you each day (Weekends probably not included) to hop on a voice/video meeting. The 
