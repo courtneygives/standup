@@ -4,8 +4,8 @@ Aint that great?
 ## Standup
 Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer than 10 people. For the purpose of keeping the meeting very short, participants actually do *stand up* together. Each person has some time to talk about plans and needs for the day. We don't necessarily know each other or work together, so we're doing things our way.
 
-- Gitter - any-time chat room: [gitter.im/sun-paws](gitter.im/sun-paws)
-- Talky - browser-based meeting tool: [talky.io/sun-paws](talky.io/sun-paws)
+- Gitter - any-time chat room: [gitter.im/sun-paws](http://gitter.im/sun-paws)
+- Talky - browser-based meeting tool: [talky.io/sun-paws](http://talky.io/sun-paws)
 
 ## Procedure ("our way")
 1. Go to talky.io/sun-paws in a browser and get ready for talking on camera!
@@ -14,7 +14,7 @@ Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer 
   - What have you worked on since the last meeting / yesterday?
   - What will you work on after this meeting?
   - What is getting inhibiting your progress?
-4. Go to our chat room, if you want to, at any time: [gitter.im/sun-paws](gitter.im/sun-paws)
+4. Go to our chat room, if you want to, at any time: [gitter.im/sun-paws](http://gitter.im/sun-paws)
   
 
 # Vote plz.
