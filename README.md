@@ -16,10 +16,8 @@ Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer 
 # Vote plz.
 Vote on the time that is most likely to work for you each day (Weekends probably not included) to hop on a voice/video meeting. The 
 
-You would just be encouraged to attend ==one per day==, not both morning and evening.
+You would just be encouraged to attend __one per day__, not both morning and evening.
 
-### Vote: Morning Standup times
---> https://doodle.com/poll/6u9f673z2a2tdigp
+### [Vote: Morning Standup times](https://doodle.com/poll/6u9f673z2a2tdigp)
 
-### Vote: Afternoon / Evening Standup times
---> https://doodle.com/poll/zwan3g3cgrr3bp2b
+### [Vote: Afternoon / Evening Standup times](https://doodle.com/poll/zwan3g3cgrr3bp2b)
