@@ -1,5 +1,10 @@
-# This is going to run itself. 
+# This is going to run itself
 Aint that great?
+
+## Reasons
+It would be so helpful to have people to tell my daily/weekly work plans to who are in the software world. I'm a team of one, so that's why this is something I'd really benefit from, to stay organized and feel less isolated. I looked around the room I was in to help me pick a random sounding name for a group... so here it is: Sun Paws
+
+**All the info: http://courtney.ives.mn/standup/
 
 ## Standup
 Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer than 10 people. For the purpose of keeping the meeting very short, participants actually do *stand up* together. Each person has some time to talk about plans and needs for the day. We don't necessarily know each other or work together, so we're doing things our way.
