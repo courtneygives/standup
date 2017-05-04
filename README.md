@@ -24,14 +24,17 @@ Vote on the time that is most likely to work for you each day (weekends probably
 
 ## Standup Procedure (our way)
 1. Go to our meeting room in a browser and get ready for talking on camera!
-- [talky.io/sun-paws](http://talky.io/sun-paws)
+  - [talky.io/sun-paws](http://talky.io/sun-paws)
+
 2. Start the meeting at the appointed time, because:
  - we don't know who's showing up.
  - we want this to be quick!
+
 3. Each person has 30-90 seconds to answer three questions: 
-  - What have you worked on since the last meeting / yesterday?
-  - What will you work on after this meeting?
-  - What is getting inhibiting your progress?
+ - What have you worked on since the last meeting / yesterday?
+ - What will you work on after this meeting?
+ - What is getting inhibiting your progress?
+
 4. Go to our chat room, if you want to, at any time: [gitter.im/sun-paws](http://gitter.im/sun-paws)
 
 
