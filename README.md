@@ -4,7 +4,7 @@ Aint that great?
 ## Reasons
 It would be so helpful to have people to tell my daily/weekly work plans to who are in the software world. I'm a team of one, so that's why this is something I'd really benefit from, to stay organized and feel less isolated. I looked around the room I was in to help me pick a random sounding name for a group... so here it is: Sun Paws
 
-**All the info: http://courtney.ives.mn/standup/
+** All the info: http://courtney.ives.mn/standup/ **
 
 ## Standup
 Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer than 10 people. For the purpose of keeping the meeting very short, participants actually do *stand up* together. Each person has some time to talk about plans and needs for the day. We don't necessarily know each other or work together, so we're doing things our way.
@@ -35,9 +35,8 @@ Vote on the time that is most likely to work for you each day (weekends probably
 
 
 ##  Do I have to be on camera?
-No. But here's why I think you should do it anyway: 
-
-- It's kinda awkward-- I know, but it will get better.
+No! Fear of speaking and being in the spotlight is a very real thing for many of us. I want you to attend --even without your camera on-- first and foremost.
+- For most of us it's kinda awkward-- I know, but it will get better.
 - It really improves the experience and realness of the meeting.
 - If you are willing to turn on your camera, thank you!
 
