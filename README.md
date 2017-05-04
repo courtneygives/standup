@@ -41,4 +41,6 @@ No! Fear of speaking and being in the spotlight is a very real thing for many of
 - If you are willing to turn on your camera, thank you!
 
 ## I have too many dang chat groups and programs!
-I use a program on deskdop that puts Slack, Gitter, Hangouts, FB Messenger, etc in one application. It's great. There are two of them that I know of at the moment: [IM+](https://www.shape.ag/en/) and [Franz](http://meetfranz.com/)
+I use a program on deskdop called __[Franz](http://meetfranz.com/)__ that puts Slack, Gitter, Hangouts, FB Messenger, etc in one application. It's great.
+
+[![Franz](https://avatars0.githubusercontent.com/u/21120259?v=3&s=200)](http://meetfranz.com/)
