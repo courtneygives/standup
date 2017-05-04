@@ -31,7 +31,7 @@ Vote on the time that is most likely to work for you each day (weekends probably
   - What have you worked on since the last meeting / yesterday?
   - What will you work on after this meeting?
   - What is getting inhibiting your progress?
-4. Go to our chat room, if you want to, at any time: gitter.im/sun-paws
+4. Go to our chat room, if you want to, at any time: [gitter.im/sun-paws](http://gitter.im/sun-paws)
 
 
 ##  Do I have to be on camera?
