@@ -13,6 +13,15 @@ Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer 
 - **Gitter** - any-time chat room: [gitter.im/sun-paws](http://gitter.im/sun-paws)
 - **Talky** - browser-based meeting tool: [talky.io/sun-paws](http://talky.io/sun-paws)
 
+# Vote plz.
+Vote on the time that is most likely to work for you each day (weekends probably not included) to hop on a voice/video meeting.
+
+- You would just be encouraged to attend __one per day__, not both morning and evening.
+
+### [Vote: Morning Standup times](https://doodle.com/poll/6u9f673z2a2tdigp)
+
+### [Vote: Afternoon / Evening Standup times](https://doodle.com/poll/zwan3g3cgrr3bp2b)
+
 ## Standup Procedure (our way)
 1. Go to talky.io/sun-paws in a browser and get ready for talking on camera!
 2. Start the meeting at the appointed time, because:
@@ -24,6 +33,7 @@ Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer 
   - What is getting inhibiting your progress?
 4. Go to our chat room, if you want to, at any time: gitter.im/sun-paws
 
+
 ##  Do I have to be on camera?
 No. But here's why I think you should do it anyway: 
 
@@ -31,12 +41,5 @@ No. But here's why I think you should do it anyway:
 - It really improves the experience and realness of the meeting.
 - If you are willing to turn on your camera, thank you!
 
-
-# Vote plz.
-Vote on the time that is most likely to work for you each day (weekends probably not included) to hop on a voice/video meeting.
-
-- You would just be encouraged to attend __one per day__, not both morning and evening.
-
-### [Vote: Morning Standup times](https://doodle.com/poll/6u9f673z2a2tdigp)
-
-### [Vote: Afternoon / Evening Standup times](https://doodle.com/poll/zwan3g3cgrr3bp2b)
+## I have too many dang chat groups and programs!
+I use a program on deskdop that puts Slack, Gitter, Hangouts, FB Messenger, etc in one application. It's great. There are two of them that I know of at the moment: [IM+](https://www.shape.ag/en/) and [Franz](http://meetfranz.com/)
