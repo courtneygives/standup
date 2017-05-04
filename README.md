@@ -1,4 +1,4 @@
-#This is going to run itself. 
+# This is going to run itself. 
 Aint that great?
 
 ## Standup
