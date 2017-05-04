@@ -23,7 +23,7 @@ Vote on the time that is most likely to work for you each day (weekends probably
 ### [Vote: Afternoon / Evening Standup times](https://doodle.com/poll/zwan3g3cgrr3bp2b)
 
 ## Standup Procedure (our way)
-1. Go to talky.io/sun-paws in a browser and get ready for talking on camera!
+1. Go to [talky.io/sun-paws](http://talky.io/sun-paws) in a browser and get ready for talking on camera!
 2. Start the meeting at the appointed time, because:
  - we don't know who's showing up.
  - we want this to be quick!
