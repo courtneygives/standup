@@ -9,18 +9,14 @@ __All the info:__ http://courtney.ives.mn/standup/
 ## Standup
 Standup (a.k.a. Scrum) in the world of software is typically a meeting of fewer than 10 people. For the purpose of keeping the meeting very short, participants actually do *stand up* together. Each person has some time to talk about plans and needs for the day. We don't necessarily know each other or work together, so we're doing things our way.
 
+# Morning Standup Time - 9AM, Monday-Friday
 
 - **Gitter** - any-time chat room: [gitter.im/sun-paws](http://gitter.im/sun-paws)
 - **Talky** - browser-based meeting tool: [talky.io/sun-paws](http://talky.io/sun-paws)
 
-# Vote plz.
-Vote on the time that is most likely to work for you each day (weekends probably not included) to hop on a voice/video meeting.
-
-- You would just be encouraged to attend __one per day__, not both morning and evening.
-
-### [Vote: Morning Standup times](https://doodle.com/poll/6u9f673z2a2tdigp)
-
-### [Vote: Afternoon / Evening Standup times](https://doodle.com/poll/zwan3g3cgrr3bp2b)
+## Want a non-work-hours standup meeting? 
+Our meeting is at 9AM, but I've gotten several comments saying some people can't participate while at work. Once we have a couple of participants, an afternoon or evening meeting might make sense for those people:
+#### [Vote: Afternoon / Evening Standup times](https://doodle.com/poll/zwan3g3cgrr3bp2b)
 
 ## Standup Procedure (our way)
 1. Go to our meeting room in a browser and get ready for talking on camera!
